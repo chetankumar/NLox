@@ -21,5 +21,7 @@ namespace NLox
         CLASS, FUN, VAR, RETURN,
         SUPER, THIS,
 
+        PRINT
+
     }
 }

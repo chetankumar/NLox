@@ -3,7 +3,7 @@
     public class Token
     {
         public TokenType TokenType { get; set; }
-        public string? Lexeme { get; set; };
+        public string? Lexeme { get; set; }
         public object? Literal { get; set; }
         public int LineNumber { get; set; }
 
