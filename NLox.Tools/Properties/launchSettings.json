@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "NLox.Tools": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\HQL\\Research\\Lox\\NLox\\NLox\\NLox\\Grammer\\"
+    },
+    "GenerateAst": {
+      "commandName": "Executable"
+    }
+  }
+}

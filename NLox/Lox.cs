@@ -28,7 +28,7 @@ namespace NLox
 
         private void Run(string code)
         {
-            ScannerOld scanner = new ScannerOld(code);
+            Scanner scanner = new Scanner(code);
             List<Token> tokens = scanner.ScanTokens();
             foreach(var token in tokens)
             {
